@@ -9,9 +9,6 @@ I’m interested in linguistics, conlangs/conlanging, computers, Esperanto, and 
 
 :accessibility: If any accessibility features you may need/want are not present here, open an issue and I'll try to address it ASAP.
 
-> [!NOTE]
-> 🖹 My vCard is available upon request. My FOAF description is available [on my website](https://davidswindle.w3spaces.com/foaf.xml).
-
 Current Projects
 ---------------------------------------------------------------------------------------
 |  Project   | Description                                                  | Status  |
@@ -27,6 +24,8 @@ Contact Me
 | 🖄 XMPP         | [ferrichrome@07f.de](xmpp:ferrichrome@07f.de)              |
 | 🦋 Bluesky      | [ferrichrome@bsky.social](bluesky:ferrichrome@bsky.social) |
 | 🗫 Discord      | [@ferri.chrome](discord:@ferri.chrome)                     |
+> [!NOTE]
+> 🖹 My vCard is available upon request. My FOAF description is available [on my website](https://davidswindle.w3spaces.com/foaf.xml).
 
 > [!WARNING]
 > I may not always respond to communications immediately; I'm still in school and have a busy schedule. The fastest way to reach me is via E-mail, which I most often check. Thanks for your patience!
