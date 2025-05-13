@@ -3,6 +3,11 @@ Hi, I’m David G. Swindle.
 
 I’m interested in linguistics, conlangs/conlanging, computers, Esperanto, and oxford commas. I’m currently learning PHP, Python, Javascript, & C++.
 
+:accessibility: If any accessibility features you may need/want are not present here, open an issue and I'll try to address it ASAP.
+
+> [!NOTE]
+> 🖹 My vCard is available upon request. My FOAF description is available [on my website](https://davidswindle.w3spaces.com/foaf.xml).
+
 | Service         | Address                                                    |
 |:---------------:|:-----------------------------------------------------------|
 | 📧 Email        | [david@swindle.net](mailto:david@swindle.net)              |
@@ -12,8 +17,6 @@ I’m interested in linguistics, conlangs/conlanging, computers, Esperanto, and 
 
 > [!WARNING]
 > I may not always respond to communications immediately; I'm still in school and have a busy schedule. The fastest way to reach me is via E-mail, which I most often check. Thanks for your patience!
-
-🖹 My vCard is available upon request. My FOAF description is available [on my website](https://davidswindle.w3spaces.com/foaf.xml).
 
 🖹 My ORCID ID is `0009-0001-7560-4357`.
 
